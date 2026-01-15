@@ -1,0 +1,13 @@
+.lake/
+lake-packages/
+build/
+*.olean
+*.ilean
+*.trace
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+.DS_Store
